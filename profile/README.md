@@ -2,7 +2,7 @@
 
 # RFC-Tsudanuma
 
-**Next Generation Humanoid Soccer Robot Team**
+**Robot Football Club**
 
 ![Location](https://img.shields.io/badge/Location-Japan-red)
 ![League](https://img.shields.io/badge/RoboCup-Humanoid_League-blue)
@@ -23,7 +23,7 @@
 | Date | Event | Result |
 | :--- | :--- | :--- |
 | **2025.11** | [RoboCup Asia Pacific 2025](https://2025.robocupap.org/) | **3rd Place 🥉** |
-| **2025.08** | [World Humanoid Robot Games](https://www.whrgoc.com/) | Challenger (予選出場) |
+| **2025.08** | [World Humanoid Robot Games](https://www.whrgoc.com/) | Preliminary Round (予選敗退) |
 | **2025.06** | **Team Establishment** | チーム設立 |
 
 ## 🤝 Join Us
