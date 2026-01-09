@@ -1,6 +1,7 @@
 <div align="center">
 
 # RFC-Tsudanuma
+<img width="313" height="271" alt="emblem" src="https://github.com/user-attachments/assets/8c7dfaec-aa01-4869-9b4c-a36b38cb11a1" />
 
 **Robot Football Club**
 
