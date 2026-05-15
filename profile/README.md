@@ -54,4 +54,4 @@ We are seeking sponsors to support our challenge. In return for your support, we
 ご質問、加入希望、スポンサー契約に関するお問い合わせはこちらまで。
 
 **RFC-Tsudanuma Team**
-📧 [rfc-tsudanuma@gmail.com](mailto:rfc-tsudanuma@gmail.com)
+📧 [rfc.tsudanuma@gmail.com](mailto:rfc.tsudanuma@gmail.com)
