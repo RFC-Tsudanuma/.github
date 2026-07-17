@@ -23,6 +23,7 @@
 
 | Date | Event | Result |
 | :--- | :--- | :--- |
+| **2026.07** | [RoboCup 2026 Korea](https://2026.robocup.org/) | 12位 |
 | **2025.11** | [RoboCup Asia Pacific 2025](https://2025.robocupap.org/) | **3rd Place 🥉** |
 | **2025.08** | [World Humanoid Robot Games](https://www.whrgoc.com/) | Preliminary Round (予選敗退) |
 | **2025.06** | **Team Establishment** | チーム設立 |
